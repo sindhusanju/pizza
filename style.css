@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;   
+}
+#out{
+    border: solid 2px;
+    height: 495px;
+    background-image: url(burger.webp);
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+}
+h1{
+    color: black;
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-style: italic;
+}
+#register,#login{
+    height: 60px;
+    width: 150px;
+background-color: antiquewhite;
+margin-top: 50px;
+margin-left: 10px;
+font-size: 15px;
+}
+#register{
+    margin-left: 80px;
+}
+#register:hover{
+    background-color: black;
+}

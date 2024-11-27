@@ -1,0 +1,45 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(pizz.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
+form{
+    border: solid 3px rgb(112, 231, 88);
+    margin-right: 700px;
+    width: 300px;
+    margin-top: 50px;
+    padding-left: 10px;
+    background-color: aqua;
+}
+label{
+    color: rgb(3, 12, 20);
+    font-size: 40px;
+    
+}
+h1{
+    color: rgb(46, 9, 9);
+    font: size 30px;
+    text-align:left;
+}
+input{
+    height: 30px;
+    width: 310px;
+}
+#register{
+    margin-left:200px ;
+}
+#register a,#login a{
+    color:rgb(233, 22, 22);
+    font-style: italic;
+    text-decoration: none
+}
+p{
+    color:black;
+    font-size: 25px;
+}
